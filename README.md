@@ -59,7 +59,8 @@ python main.py
 
 Для понимания структуры и связей между таблицами в базе данных, ниже представлена ER-диаграмма.
 
-<ЗДЕСЬ МОЖЕТЕ ВСТАВИТЬ ИЗОБРАЖЕНИЕ ВАШЕЙ ДИАГРАММЫ>
+<img width="1731" height="3840" alt="Untitled diagram _ Mermaid Chart-2025-09-21-235003" src="https://github.com/user-attachments/assets/eac5d352-baa7-48c1-83c3-823e7789289c" />
+
 
 ### Ключевые связи:
 
